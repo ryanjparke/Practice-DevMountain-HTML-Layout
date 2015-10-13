@@ -1,0 +1,29 @@
+html, body {
+	background-color: #CFCFCF;
+	height: 100%;
+	width: 100%;
+	position: relative;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background-color: #343434;
+	height: 10%;
+}
+
+article {
+	background-color: #fff;
+	display: block;
+	margin: 0 auto;
+	width: 80%;
+	height: 85%;
+	overflow-y: auto;
+}
+
+footer {
+	background-color: #1A1A1A;
+	width: 80%;
+	height: 5%;
+	margin: 0 auto;
+}
